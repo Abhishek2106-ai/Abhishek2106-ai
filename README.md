@@ -1,6 +1,6 @@
 ### Hi, I'm Abhi
 
-### M.Tech Data Science Student | Machine Learning | Model Evaluation
+### M.Tech Data Science Student | Machine Learning | Deep Learning | AI
 
 M.Tech Data Science student focused on building end-to-end machine learning solutions, from data preprocessing and exploratory analysis to model evaluation and business-oriented insights.
 
