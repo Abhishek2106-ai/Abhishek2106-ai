@@ -118,14 +118,6 @@ Interested in predictive modeling, statistical learning, and developing practica
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek2106-ai&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek2106-ai&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/abhishek-singh-se/
