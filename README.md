@@ -33,6 +33,7 @@ Interested in predictive modeling, statistical learning, and developing practica
 - Google Colab
 - VS Code
 - Git & GitHub
+- Kaggle
 
 ---
 
